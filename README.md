@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bhavyarajx
 - 👀 I’m interested in imagining how things work
-- 🌱 I’m currently learning java,python,cpp,swift
-- 💞️ I’m looking to collaborate with money :)
+- 🌱 I’m currently working on AI image generation, creating new codes etc
 - 📫 How to reach me - bbjadejax@gmail.com
 
 <!---
